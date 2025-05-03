@@ -4,7 +4,7 @@
 O Bancos de Vida é uma plataforma web desenvolvida para facilitar e incentivar a doação de sangue, conectando doadores a hemocentros e hospitais. O projeto tem como objetivo principal tornar o processo de doação de sangue mais acessível e transparente, além de conscientizar a população sobre a importância deste ato de solidariedade.
 
 ## 🎯 Objetivos
-- Facilitar o agendamento de doações de sangue
+- Dismistificar duvidas e mitos sobre doação de sangue  
 - Informar sobre requisitos e preparação para doação
 - Localizar hemocentros próximos
 - Manter doadores informados sobre campanhas e necessidades
@@ -13,7 +13,7 @@ O Bancos de Vida é uma plataforma web desenvolvida para facilitar e incentivar 
 ## 👩‍💻 Autora
 - **Nome:** Caroline Heloisa
 - **Curso:** Análise e Desenvolvimento de Sistemas
-- **Instituição:** [Nome da Instituição]
+- **Instituição:** Universidade Cruzeiro do Sul
 - **Projeto:** Atividade de Extensão
 
 ## 🛠️ Tecnologias Utilizadas
