@@ -41,4 +41,4 @@ Este projeto está sob a licença [inserir tipo de licença].
 Para mais informações sobre o projeto, entre em contato:
 - Email: [carolhgraciano3@gmail.com]
 - LinkedIn: [seu perfil]
-- GitHub: [seu perfil]
+- GitHub: [https://github.com/chgsan]
