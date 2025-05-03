@@ -39,6 +39,6 @@ Este projeto está sob a licença [inserir tipo de licença].
 
 ## 📞 Contato
 Para mais informações sobre o projeto, entre em contato:
-- Email: [seu email]
+- Email: [carolhgraciano3@gmail.com]
 - LinkedIn: [seu perfil]
 - GitHub: [seu perfil]
